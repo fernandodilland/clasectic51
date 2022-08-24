@@ -1,1 +1,1 @@
-alert("Hola, esta es una alerta")
+alert("Hola, esta es una alerta desde app.js")
